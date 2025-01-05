@@ -1,5 +1,6 @@
 package bg.softuni.mobilele.models.entities;
 
+
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
